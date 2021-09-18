@@ -292,8 +292,8 @@ a:hover, a:focus, a:active {
   background: url(../img/logo.png) no-repeat left 100%;
   top: 24px;
   position: relative;
-  width: 220px;
-  height: 43px;
+  width: 380px;
+  height: 48px;
   text-indent: -999999px;
   -webkit-transition: .2s all;
   transition: .2s all;
@@ -311,9 +311,9 @@ a:hover, a:focus, a:active {
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .probootstrap-navbar .navbar-brand {
     position: relative;
-    width: 220px;
-    height: 43px;
-    background: url(../img/logo@2x.png) no-repeat left 100%;
+    width: 380px;
+    height: 48px;
+    background: url(../img/logo.png) no-repeat left 100%;
     background-size: cover;
   }
 }

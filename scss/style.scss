@@ -261,8 +261,8 @@ a {
 		background: url(../img/logo.png) no-repeat left 100%;
 		top: 24px;
 		position: relative;
-		width: 220px;
-		height: 43px;
+		width: 380px;
+		height: 48px;
 		text-indent: -999999px;
 		transition: .2s all;
 		@media screen and (max-width: $screen-sm) {
@@ -282,9 +282,9 @@ a {
 		only screen and (                min-resolution: 192dpi),
 		only screen and (                min-resolution: 2dppx) { 
 			position: relative;
-	  	width: 220px;
-			height: 43px;
-	    background: url(../img/logo@2x.png) no-repeat left 100%;
+	  	width: 380px;
+			height: 48px;
+	    background: url(../img/logo.png) no-repeat left 100%;
 	    background-size: cover;
 		}
 
