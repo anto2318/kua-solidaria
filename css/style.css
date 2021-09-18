@@ -81,7 +81,7 @@ a:hover, a:focus, a:active {
   box-shadow: none;
   border-radius: 0px;
   margin-bottom: 0px;
-  background: #000000;
+  background: #59b5da;
   -webkit-transition: .3s all;
   transition: .3s all;
   position: absolute;
@@ -93,7 +93,7 @@ a:hover, a:focus, a:active {
 
 @media screen and (max-width: 768px) {
   .probootstrap-navbar {
-    background: black;
+    background: #59b5da;
     -webkit-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
   }
@@ -232,12 +232,12 @@ a:hover, a:focus, a:active {
 .probootstrap-navbar .dropdown > .dropdown-menu > li a:hover {
   border-top: none;
   background: none !important;
-  color: #ffffff;
+  color: #585858;
 }
 
 .probootstrap-navbar .dropdown > .dropdown-menu > li.open > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:hover > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:focus > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:active > a {
   border-top: none;
-  color: #ffffff;
+  color: #585858;
   background: none !important;
 }
 
@@ -250,7 +250,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .dropdown > .dropdown-menu > li.active > a {
-  color: #ffffff;
+  color: #585858;
 }
 
 .probootstrap-navbar .navbar-right .dropdown-menu {
@@ -280,7 +280,7 @@ a:hover, a:focus, a:active {
     padding: 10px 15px;
   }
   .probootstrap-navbar .dropdown-menu a {
-    color: #ffffff;
+    color: #585858;
   }
 }
 
@@ -382,7 +382,7 @@ a:hover, a:focus, a:active {
   padding: 10px 20px;
   margin-top: 24px;
   background: #FDBE34;
-  color: #ffffff;
+  color: #585858;
   border-radius: 0px;
   border: none;
 }
@@ -590,7 +590,7 @@ a:hover, a:focus, a:active {
 .probootstrap-hero .probootstrap-slider-text h1 {
   text-transform: uppercase;
   font-size: 80px;
-  color: #ffffff;
+  color: #585858;
   font-weight: 900;
   line-height: 60px;
 }
@@ -667,13 +667,13 @@ a:hover, a:focus, a:active {
 
 .probootstrap-service-intro .probootstrap-service-intro-flex .item .icon i {
   font-size: 50px;
-  color: #ffffff;
+  color: #585858;
 }
 
 .probootstrap-service-intro .probootstrap-service-intro-flex .item .text h2, .probootstrap-service-intro .probootstrap-service-intro-flex .item .text p {
   margin: 0;
   padding: 0;
-  color: #ffffff;
+  color: #585858;
   line-height: 1.5;
 }
 
@@ -688,7 +688,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-service-intro .probootstrap-service-intro-flex .item .text a {
-  color: #ffffff;
+  color: #585858;
   text-decoration: underline;
 }
 
@@ -715,12 +715,12 @@ a:hover, a:focus, a:active {
 .btn.btn-primary {
   border: 1px solid #FDBE34;
   background: #FDBE34;
-  color: #ffffff;
+  color: #585858 !important;
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   background: #000000;
-  color: #ffffff;
+  color: #fff;
   border: 1px solid #000000;
 }
 
@@ -737,7 +737,7 @@ a:hover, a:focus, a:active {
 
 .btn.btn-ghost:hover {
   background: #FDBE34;
-  color: #ffffff;
+  color: #fff;
 }
 
 .btn.btn-ghost:focus, .btn.btn-ghost:active {
@@ -749,7 +749,7 @@ a:hover, a:focus, a:active {
 
 .btn.btn-black {
   background: #000000;
-  color: #ffffff;
+  color: #585858;
   border: 1px solid #000000;
 }
 
@@ -762,7 +762,7 @@ a:hover, a:focus, a:active {
 .btn.btn-black:focus, .btn.btn-black:active {
   outline: none;
   background: #FDBE34;
-  color: #ffffff;
+  color: #585858;
   border: 1px solid #FDBE34;
 }
 
@@ -880,7 +880,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-half .text h3 {
-  color: #ffffff;
+  color: #585858;
   line-height: 30px;
   font-size: 30px;
   margin-bottom: 30px;
@@ -943,13 +943,13 @@ a:hover, a:focus, a:active {
 .probootstrap-cta {
   padding: 3em 0;
   background: #FDBE34;
-  color: #ffffff;
+  color: #585858;
 }
 
 .probootstrap-cta h2 {
   margin: 12px 0 0 0;
   padding: 0;
-  color: #ffffff;
+  color: #585858;
   float: left;
   line-height: 1.5;
   font-weight: 300;
@@ -986,7 +986,7 @@ a:hover, a:focus, a:active {
 .probootstrap-cta .btn.btn-ghost {
   width: 200px;
   border: 1px solid #ffffff;
-  color: #ffffff;
+  color: #585858;
 }
 
 @media screen and (max-width: 480px) {
@@ -1419,7 +1419,7 @@ a:hover, a:focus, a:active {
   border-radius: 0px;
   padding: 20px 30px;
   background: #FDBE34;
-  color: #ffffff;
+  color: #585858;
   font-size: 16px;
   border: none !important;
 }
@@ -2063,19 +2063,19 @@ a:hover, a:focus, a:active {
 .modal .probootstrap-modal-flex .btn-connect-facebook {
   background: #3b5998;
   border-color: #3b5998;
-  color: #ffffff;
+  color: #585858;
 }
 
 .modal .probootstrap-modal-flex .btn-connect-twitter {
   background: #1da1f2;
   border-color: #1da1f2;
-  color: #ffffff;
+  color: #585858;
 }
 
 .modal .probootstrap-modal-flex .btn-connect-google {
   background: #ea4335;
   border-color: #ea4335;
-  color: #ffffff;
+  color: #585858;
 }
 
 .modal .vertical-alignment-helper {
